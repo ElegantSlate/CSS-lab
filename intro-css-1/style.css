@@ -1,0 +1,23 @@
+.box1{
+    height: 100px;
+    width: 100px;
+    border-width: 5px;
+    border-style: groove;
+    border-color: rgb(46, 187, 88);
+    border-radius: 0 25px;
+    margin: 40px;
+}
+.box1 h1{
+    color: rgb(46, 187, 88);
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: rgb(0, 14, 4);
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+    padding: 20px;
+}
